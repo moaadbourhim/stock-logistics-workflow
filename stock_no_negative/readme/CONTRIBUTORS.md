@@ -21,3 +21,5 @@
 
 - [Dynapps](https://www.dynapps.eu/):
   - Bert Van Groenendael \<<bert.vangroenendael@dynapps.eu>\>
+
+- Moaad Bourhim
